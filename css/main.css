@@ -2,4 +2,19 @@ div {
 	width: 200px;
 	height: 250px;
 	border:2px solid red;
+	margin:5px;
+}
+
+body:nth-child(2){
+	margin: 5px;
+    width: 200px;
+	height: 250px;
+	border:2px solid red;
+}
+
+body:nth-child(3){
+ 	width: 200px;
+	height: 250px;
+	border:2px solid red;
+	margin: 5px;
 }
